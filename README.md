@@ -11,6 +11,12 @@ A Person is able to make Topics and assign themselved tasks under each topic. Fo
 2) Easy to use
 3) More User Friendly 
 4) Very customizable
+5) Number of tasks remaining is clearly shown above so that tracking progress can be easier
+6) Automatically saves to local storage , so refreshing page would not loose the progress
+7) Lists can be easily deleted 
+8) The finished tasks can be removed by just one click of a button
+
+
 
 ### Heres a simple instruction Video on How to use the Ultimate Planner
 
@@ -25,6 +31,11 @@ Tasks can be assigned to each person and everyone can see what tasks are assigne
 
 ![Group](https://user-images.githubusercontent.com/93953652/177169083-bd655826-0b16-451b-a558-09f152998586.png)
 
+### 2) Weekly Planner
+
+The Ultimate Planner can be used by eveyone to plan ahead their week. Each topic can be a day of the week and  for each day , a person can add tasks they want to complete.
+
+![Weekly Planner](https://user-images.githubusercontent.com/93953652/177170252-6261353a-3be8-4590-adc6-107946898caa.png)
 
 
 
